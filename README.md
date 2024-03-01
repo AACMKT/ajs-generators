@@ -1,7 +1,7 @@
 # Implementation of an generator in a Сlass that takes array as an argument
 
 ---
-[![Build status](https://ci.appveyor.com/api/projects/status/yj224iae4k1042i8?svg=true)](https://ci.appveyor.com/project/AACMKT/ajs-oop)
+[![Build status](https://ci.appveyor.com/api/projects/status/f22hava44fa4rp2o?svg=true)](https://ci.appveyor.com/project/AACMKT/ajs-generators)
 
 ### Описание
 
